@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap');
 
 :root {
-  --background: rgba(255, 255, 255, 0.1);
+  --background: #d0e0e5;
   --foreground: #171717;
   --font-mono: 'JetBrains Mono', ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace;
 }
